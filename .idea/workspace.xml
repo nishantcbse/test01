@@ -206,7 +206,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421041164470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create new branch nishant3 and commit to nishant3">
+      <created>1421041207281</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1421041207281</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -253,7 +259,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="first commit test by phpstrom" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit test by phpstrom" />
+    <MESSAGE value="create new branch nishant3 and commit to nishant3" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new branch nishant3 and commit to nishant3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
