@@ -17,3 +17,4 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 //checking first commit by phpstrom
+//checking first commit by phpstrom to branch nishant
