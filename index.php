@@ -18,3 +18,4 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 //checking first commit by phpstrom
 //checking first commit by phpstrom to branch nishant
+//checking first commit by phpstrom create branch and commit branch nishant
